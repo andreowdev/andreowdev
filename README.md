@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2 align="left">Olá 👋! Meu nome é Andreo Henrique, e eu sou de Manaus - AM</h2>
+<h2 align="left">Olá 👋! Meu nome é Andreo Henrique, Programador FullStack - AM</h2>
 
 ###
 
