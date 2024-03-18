@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h2 align="left">Olá 👋! Meu nome é Andreo Henrique, Programador FullStack - AM</h2>
 
