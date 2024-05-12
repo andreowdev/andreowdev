@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Programador FullStack em busca da primeiro oportunidade de emprego/estágio, aqui compartilho com vocês meus projetos.</p>
+<p align="left">Estudante de Análise e Desenvolvimento de Sistemas em busca da primeira oportunidade de emprego/estágio, aqui compartilho com vocês meus projetos.</p>
 
 ###
 
