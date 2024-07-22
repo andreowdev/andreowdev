@@ -17,8 +17,8 @@
 
 ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&labelColor=20232A&logoColor=339933)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&labelColor=20232A&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&A&logoColor=0D1117)
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&A&logoColor=0D1117)
 
 
 ### Tools:
